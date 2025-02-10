@@ -43,9 +43,9 @@ This project is a React application that allows users to search for movies. User
 
 ## Screenshoots 
 
-https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(1).png
-https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(2).png
-https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(3).png
+![Resim 1 ](https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(1).png)
+![Resim 2](https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(2).png)
+![Resim 3](https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(3).png)
 
 ## License
 
