@@ -1,6 +1,6 @@
 # React Movies
 
-This project is a React application that allows users to search for movies. Users can search through thousands of movies and view the results.
+This project is a React application that allows users to search for movies. Users can search through thousands of movies and view the results. Used TMDB Movie API.
 
 ## Technologies Used
 
@@ -40,6 +40,12 @@ This project is a React application that allows users to search for movies. User
     - `Search.jsx`: Search component.
   - `main.jsx`: Entry point of the application.
 - `index.css`: Application styles.
+
+## Screenshoots 
+
+https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(1).png
+https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(2).png
+https://github.com/ilkerkrbyikk/react-movie-app/blob/master/Screenshoots/img%20(3).png
 
 ## License
 
