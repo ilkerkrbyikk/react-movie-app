@@ -12,7 +12,7 @@ This project is a React application that allows users to search for movies. User
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ilkerkrbyikk/react-movie-app
    ```
 2. Navigate to the project directory:
    ```bash
@@ -29,7 +29,7 @@ This project is a React application that allows users to search for movies. User
    ```bash
    npm run dev
    ```
-2. Open your browser and go to `http://localhost:3000`.
+2. Open your browser and go to `http://localhost:5173`.
 
 ## Project Structure
 
